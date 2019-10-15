@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="removeRepeated:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/removeRepeated_jar</output-path>
+    <root id="archive" name="removeRepeated.jar">
+      <element id="module-output" name="removeRepeated" />
+    </root>
+  </artifact>
+</component>
