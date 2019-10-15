@@ -1,7 +1,7 @@
 # RemoveRepeated
 Remove repeated instances of text where the repeated text is exactly one character away.
 
-##Back story:
+## Back story:
 I (April Monoceros) was using https://manytools.org/hacker-tools/convert-image-to-ansi-art/ to convert an image
 into ANSI-looking art, where the output was HTML/CSS with lots of <span> tags to set the color for each space.
 
@@ -14,7 +14,7 @@ So I removed a few by hand, before realizing that coding a solution would be way
 
 And this is the end result, which, with my first test, reduced a file from about 800k to about 400k.
 
-##Caveats, possible enhancements:
+## Caveats, possible enhancements:
 This is still a very specific solution. It could, instead, take in a span, check to see if the next span
 is the same, and cut out duplicates.
 
